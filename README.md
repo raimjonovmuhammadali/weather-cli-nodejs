@@ -1,8 +1,8 @@
 # Weather-cli-nodejs
 
-![GitHub Repo URL](https://github.com/raimjonovmuhammadali/weather-cli-nodejs)
 
 ## 📝 Description
+A CLI-based program that displays weather information in real-time
 
 A project developed by Rayimjonov Muhammadali
 
@@ -11,5 +11,11 @@ A project developed by Rayimjonov Muhammadali
 
 Before installing, ensure you have the following installed on your system:
 
-* Node.js (for Node/JS projects)
+* Node.js
 * CLI
+
+Libraries used
+* AXIOS
+* CHALK
+* DEDENT JS
+* NODEMON
